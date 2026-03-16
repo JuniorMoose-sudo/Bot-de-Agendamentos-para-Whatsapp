@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs and build outputs
+.venv/
+venv/
+build/
+dist/
+
+# Sensitive or generated profiles
+app/whatsapp_profile/
+whatsapp_profile/
+
+# Logs
+*.log

@@ -1,0 +1,6 @@
+jinja2
+openpyxl
+pandas
+pyinstaller
+selenium
+webdriver-manager
